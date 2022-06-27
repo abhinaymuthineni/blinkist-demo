@@ -3,5 +3,5 @@ projectKey=abhinaymuthineni_blinkist_project
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.29861
 dashboardUrl=https://sonarcloud.io/dashboard?id=abhinaymuthineni_blinkist_project
-ceTaskId=AYGjgdX_skOe239sobqX
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYGjgdX_skOe239sobqX
+ceTaskId=AYGjkp_j6OAImYWsfclp
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYGjkp_j6OAImYWsfclp
