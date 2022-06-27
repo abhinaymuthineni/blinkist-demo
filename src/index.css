@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("./fonts/CeraProBold.otf") format("opentype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("./fonts/CeraProLight.otf") format("opentype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("./fonts/CeraProMedium.otf") format("opentype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("./fonts/CeraProThin.otf") format("opentype");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("./fonts/CeraProRegular.otf") format("opentype");
+  font-weight: 400;
+}

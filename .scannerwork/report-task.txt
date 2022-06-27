@@ -1,0 +1,7 @@
+organization=saikiran583
+projectKey=Blinklist_App
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29861
+dashboardUrl=https://sonarcloud.io/dashboard?id=Blinklist_App
+ceTaskId=AYGetwB26OAImYWsfZTT
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYGetwB26OAImYWsfZTT
